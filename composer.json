@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/VincentChalnot/SidusDatabaseMaintenanceBundle",
     "type": "library",
-    "license": "GPL-2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Vincent Chalnot",
@@ -24,8 +24,8 @@
         }
     },
     "require": {
-        "php": ">=5.6",
-        "symfony/framework-bundle": "~2.8|~3.0|~4.0",
+        "php": ">=7.2",
+        "symfony/console": ">=4.0",
         "doctrine/orm": ">=2.5",
         "doctrine/doctrine-bundle": ">=1.6"
     }
